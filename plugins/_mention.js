@@ -8,12 +8,12 @@
 
 let handler = m => m
 handler.all = async function (m, conn) {
-    var vn = "https://raw.githubusercontent.com/Guru322/GURU-BOT/main/Assets/mp3/Guru1.mp3"
-    let url = "https://github.com/Guru322/GURU-BOT"
-    let murl = "https://www.instagram.com/asli_guru_2k23"
+    var vn = "https://github.com/THUNDERluzer/MY-FILES/raw/main/habibi.mp3"
+    let url = "https://wa.me/qr/P6WADRJOKAFUK1"
+    let murl = "https://www.instagram.com/hashan._.sampath"
     let hash = global.botname
-    let img = "https://telegra.ph/file/dbed2fc0abfabcd411327.jpg"
-    let num = "917605902011"
+    let img = "https://telegra.ph/file/7721cf222f9790f3fcd1b.jpg"
+    let num = "94782543893"
 
     let doc = {
         audio: {
